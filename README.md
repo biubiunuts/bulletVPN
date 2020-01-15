@@ -8,6 +8,10 @@
 
  ![image](https://github.com/biubiunuts/bulletVPN/blob/master/code.png?raw=true)
  
- ### 欢迎大家提Issues
+ #### 欢迎大家提Issues
  
- ### potato客服群 [【加入我们】](https://pt.im/joinchat/XIjdlahspf4m58njzMh4bQ)
+ #### potato客服群 [【加入我们】](https://pt.im/joinchat/XIjdlahspf4m58njzMh4bQ)
+ 
+ ### 公告
+
+2020-01-15：部分IOS客户端会出现闪退，请这部分大佬重新安装一次
