@@ -4,3 +4,6 @@
 
 使用子弹加速器全球网络服务,您可在任意设备登录使用,并拥有无限高速流量。子弹加速器提供iOS、Android免费安全下载地址，无需手动配置，下载运行即可使用。
 
+手机浏览器扫码即可下载：
+
+ ![image](https://github.com/biubiunuts/bulletVPN/blob/master/code.png?raw=true)
