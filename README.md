@@ -7,3 +7,7 @@
 手机浏览器扫码即可下载：
 
  ![image](https://github.com/biubiunuts/bulletVPN/blob/master/code.png?raw=true)
+ 
+ ### 欢迎大家提Issues
+ 
+ ### potato客服群 [【加入我们】](https://pt.im/joinchat/XIjdlahspf4m58njzMh4bQ)
