@@ -15,3 +15,5 @@
  ### 公告
 
 2020-01-15：部分IOS客户端会出现闪退，请这部分大佬重新安装一次
+
+backup:[【Android1】](https://zdspeed.oss-cn-shanghai.aliyuncs.com/android/biubiu_2.0.apk) [【Android2】](https://zdspeed.oss-cn-shanghai.aliyuncs.com/android/biubiu_2.0.apk)  [【iOS】](https://www.iosyunqian.com/download/5e145d8bdb8d1.html)
