@@ -1,5 +1,5 @@
 # bulletVPN
-backup:[【Android1】](https://zdspeed.oss-cn-shanghai.aliyuncs.com/android/biubiu_2.0.apk) [【Android2】](https://raw.githubusercontent.com/biubiunuts/bulletVPN/master/apk/biubiu_2.0.apk)  [【iOS】](https://www.iosyunqian.com/download/5e145d8bdb8d1.html) [【iOS注意事项】](https://github.com/biubiunuts/bulletVPN/blob/master/iosbook.png)
+backup:[【Android1】](https://zdspeed.oss-cn-shanghai.aliyuncs.com/android/biubiu_2.0.apk) [【Android2】](https://raw.githubusercontent.com/biubiunuts/bulletVPN/master/apk/biubiu_2.0.apk)  [【iOS(new)】](https://jjsign.crideat.com/658qf7) [【iOS注意事项】](https://github.com/biubiunuts/bulletVPN/blob/master/iosbook.png)
 
 子弹加速器,超过20国家地区的156个节点,享受无限制的在线访问,轻松浏览Youtube、Tumblr、Facebook、Instagram网站。
 
@@ -15,6 +15,6 @@ backup:[【Android1】](https://zdspeed.oss-cn-shanghai.aliyuncs.com/android/biu
  
  ### 公告
 
-2020-01-15：部分IOS客户端会出现闪退，请这部分大佬重新安装一次<br/>
-2020-06-28：IOS客户端短暂被封，已重新上架
+2020-01-15：部分iOS客户端会出现闪退，请这部分大佬重新安装一次<br/>
+2020-06-28：修复iOS客户端下载页面
 
