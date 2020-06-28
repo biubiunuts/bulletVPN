@@ -15,6 +15,6 @@ backup:[【Android1】](https://zdspeed.oss-cn-shanghai.aliyuncs.com/android/biu
  
  ### 公告
 
-2020-01-15：部分IOS客户端会出现闪退，请这部分大佬重新安装一次
+2020-01-15：部分IOS客户端会出现闪退，请这部分大佬重新安装一次<br/>
 2020-06-28：IOS客户端短暂被封，已重新上架
 
