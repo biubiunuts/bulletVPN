@@ -1,5 +1,5 @@
 # bulletVPN
-backup:[【Android1】](https://zdspeed.oss-cn-shanghai.aliyuncs.com/android/biubiu_2.0.apk) [【Android2】](https://raw.githubusercontent.com/biubiunuts/bulletVPN/master/apk/biubiu_2.0.apk)  [【iOS(1)】](https://www.wnphb.com/bt9q.app) [【iOS(2)】](https://www.86scw.com/s/CZxm) [【iOS注意事项】](https://github.com/biubiunuts/bulletVPN/blob/master/iosbook.png)
+backup:[【Android1】](https://zdspeed.oss-cn-shanghai.aliyuncs.com/android/biubiu_2.0.apk) [【Android2】](https://raw.githubusercontent.com/biubiunuts/bulletVPN/master/apk/biubiu_2.0.apk)  [【iOS】](https://www.wnphb.com/bt9q.app) [【iOS注意事项】](https://github.com/biubiunuts/bulletVPN/blob/master/iosbook.png)
 
 子弹加速器,超过20国家地区的156个节点,享受无限制的在线访问,轻松浏览Youtube、Tumblr、Facebook、Instagram网站。
 
