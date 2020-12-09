@@ -20,3 +20,4 @@ backup:[【Android1】](https://zdspeed.oss-cn-shanghai.aliyuncs.com/android/biu
 2020-07-08：iOS更换下载地址（不可用了）<br/>
 2020-08-03：iOS更换下载地址<br/>
 2020-11-24：iOS更换下载地址<br/>
+2020-12-09：iOS更换下载地址<br/>
